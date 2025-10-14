@@ -3,6 +3,7 @@
 These notes explain how to define the shape of objects in TypeScript using Type Aliases and Interfaces.  
 Includes basic types, examples, intersections, extension, and common errors.
 
+---
 
 
 ### What is the difference between type and interface?
