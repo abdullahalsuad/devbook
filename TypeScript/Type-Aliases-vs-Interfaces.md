@@ -3,6 +3,12 @@
 These notes explain how to define the shape of objects in TypeScript using Type Aliases and Interfaces.  
 Includes basic types, examples, intersections, extension, and common errors.
 
+
+
+### What is the difference between type and interface?
+
+One major difference between type aliases vs interfaces are that interfaces are open and type aliases are closed. This means you can extend an interface by declaring it a second time. In the other case a type cannot be changed outside of its declaration.
+
 ---
 
 ## 1. `Type Alias`
