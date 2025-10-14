@@ -7,8 +7,6 @@
 
 An open-source tech notebook for developers. Use it to learn, revise, and quickly recall important programming concepts and tools.
 
-<br />
-
 # Goals
 
 - Learn by writing
@@ -16,13 +14,9 @@ An open-source tech notebook for developers. Use it to learn, revise, and quickl
 - Grow knowledge from basic to advanced
 - Build strong fundamentals for software engineering
 
-<br />
-
 # Status
 
 This repository is a continuous work in progress and will be updated regularly with new topics and improvements.
-
-<br />
 
 # Report an Issue
 
