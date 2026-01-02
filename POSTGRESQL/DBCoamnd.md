@@ -40,3 +40,12 @@ SELECT \* FROM person WHERE id IN (1,2,3);
 SELECT \* FROM person WHERE id BETWEEN 1 AND 3;
 
 SELECT DISTINCT name FROM person;
+
+SELECT _ FROM person ORDER BY name ASC;
+SELECT _ FROM person ORDER BY name DESC;
+
+SELECT _ FROM person LIMIT 10;
+SELECT _ FROM person LIMIT 10 OFFSET 5;
+
+SELECT _ FROM person WHERE name LIKE 'J%';
+SELECT _ FROM person WHERE name ILIKE 'J%';
